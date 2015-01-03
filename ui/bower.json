@@ -1,0 +1,13 @@
+{
+  "name": "member-services",
+  "version": "0.0.1",
+  "authors": [
+    "Jim Ankrom",
+    "Jim Ankrom <arctanone@gmail.com>"
+  ],
+  "dependencies": {
+    "cosinedesign-toolbox": "~0.0.1"
+  },
+  "ignore": [],
+  "main": "src/cosinedesign.utility.js"
+}
